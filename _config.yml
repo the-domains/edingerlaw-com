@@ -1,0 +1,28 @@
+name: edingerlaw.com
+favicon: null
+layout_spectrum: 0.4988571247085929
+typography_spectrum: 0.45792354946024716
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.36740923509933054
+  lightness: 0.36822743667289615
+  saturation: 0.19958908576518297
+  rhythmicContrast: 0.6181597986724228
+purpose: []
